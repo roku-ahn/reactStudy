@@ -2,8 +2,8 @@ import React, { Componet } from "react";
 
 class RCC extends Componet {
   render() {
-      var text = "hihihi"
-    return <div name ='name'>{text}</div>;
+    var text = "hihihi";
+    return <div name="name">{text}</div>;
   }
 }
 
